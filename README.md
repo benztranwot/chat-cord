@@ -9,7 +9,7 @@ A simple chat app built with Socket.io
 
 ## Preview
 
-<img src="./resources/chat-cord.png"/>
+<img src="./resources/chat-cord.jpg"/>
 
 ## To run this project
 
